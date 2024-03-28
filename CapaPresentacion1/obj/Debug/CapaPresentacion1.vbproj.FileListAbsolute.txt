@@ -1,0 +1,291 @@
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe.config
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbprojResolveAssemblyReference.cache
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_inicio.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Principal.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.Resources.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.GenerateResource.Cache
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaNegocios.dll
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaDatos.dll
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaNegocios.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaNegocios.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaDatos.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.exe
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaEntidad.dll
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaEntidad.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\bin\Debug\CapaEntidad.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_perfiles.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matPerfiles.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_menu.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matUsuario.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_usuarios.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Accesos.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_codigosSistema.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_variablesSistema.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_categoria.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Mantcategoria.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantProductos.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_productos.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_tipoMovimiento.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_MantMovimiento.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_clientes.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantClientes.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_compras.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_AyudaProductos.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe.config
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaEntidad.dll
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaNegocios.dll
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaDatos.dll
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaEntidad.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaEntidad.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaNegocios.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaNegocios.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaDatos.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\bin\Debug\CapaDatos.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_codigosSistema.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_variablesSistema.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_categoria.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Mantcategoria.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantProductos.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_productos.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_MantMovimiento.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_tipoMovimiento.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_inicio.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Accesos.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_menu.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matPerfiles.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_perfiles.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Principal.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.Resources.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matUsuario.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_usuarios.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_clientes.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantClientes.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_AyudaProductos.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_compras.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.GenerateResource.Cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.exe
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe.config
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaPresentacion1.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaEntidad.dll
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaNegocios.dll
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaDatos.dll
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaEntidad.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaEntidad.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaNegocios.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaNegocios.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaDatos.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\bin\Debug\CapaDatos.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbprojResolveAssemblyReference.cache
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_codigosSistema.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_variablesSistema.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_categoria.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Mantcategoria.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantProductos.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_productos.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_MantMovimiento.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_tipoMovimiento.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_inicio.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Accesos.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_menu.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matPerfiles.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_perfiles.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Principal.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.Resources.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matUsuario.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_usuarios.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_clientes.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantClientes.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_AyudaProductos.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_compras.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.GenerateResource.Cache
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.CoreCompileInputs.cache
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.exe
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_buscar_cliente.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbprojResolveAssemblyReference.cache
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_codigosSistema.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_variablesSistema.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_categoria.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Mantcategoria.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantProductos.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_productos.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_MantMovimiento.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_tipoMovimiento.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_inicio.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Accesos.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_menu.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matPerfiles.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_perfiles.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Principal.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.Resources.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matUsuario.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_usuarios.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_clientes.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantClientes.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_AyudaProductos.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_buscar_cliente.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_compras.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_factura.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.GenerateResource.Cache
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.CoreCompileInputs.cache
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.exe
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe.config
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.dll
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.dll
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.dll
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_ayuda.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe.config
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.exe
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.xml
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.pdb
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.pdb
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.xml
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.dll
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.dll
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.dll
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.pdb
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.xml
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.pdb
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.xml
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.pdb
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.xml
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbprojResolveAssemblyReference.cache
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_codigosSistema.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_variablesSistema.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_categoria.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Mantcategoria.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantProductos.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_productos.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_MantMovimiento.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_tipoMovimiento.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_inicio.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Accesos.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_menu.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matPerfiles.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_perfiles.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Principal.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.Resources.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matUsuario.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_usuarios.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_clientes.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantClientes.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_AyudaProductos.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_buscar_cliente.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_compras.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_ayuda.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_factura.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.GenerateResource.Cache
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe.config
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.exe
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.xml
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.pdb
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.pdb
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.xml
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.dll
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.dll
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.dll
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.pdb
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.xml
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.pdb
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.xml
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.pdb
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.xml
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbprojResolveAssemblyReference.cache
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_codigosSistema.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_variablesSistema.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_categoria.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Mantcategoria.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantProductos.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_productos.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_MantMovimiento.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_tipoMovimiento.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_inicio.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Accesos.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_menu.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matPerfiles.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_perfiles.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Principal.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.Resources.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matUsuario.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_usuarios.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_clientes.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantClientes.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_AyudaProductos.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_buscar_cliente.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_compras.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_ayuda.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_factura.resources
+C:\Users\Jesus Rosales\Desktop\Nueva carpeta\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.GenerateResource.Cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe.config
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.exe
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaPresentacion1.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.dll
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.dll
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.dll
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaEntidad.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaNegocios.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\bin\Debug\CapaDatos.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.AssemblyReference.cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_codigosSistema.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_variablesSistema.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_categoria.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Mantcategoria.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantProductos.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_productos.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_MantMovimiento.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_tipoMovimiento.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_inicio.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Accesos.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_menu.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matPerfiles.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_perfiles.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_Principal.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.Resources.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_matUsuario.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_usuarios.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_clientes.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_mantClientes.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_AyudaProductos.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_buscar_cliente.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_compras.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_ayuda.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.frm_factura.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.GenerateResource.cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.vbproj.CoreCompileInputs.cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.exe
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPresentacion1.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaPresentacion1\obj\Debug\CapaPres.98379825.Up2Date

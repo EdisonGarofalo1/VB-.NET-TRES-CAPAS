@@ -1,0 +1,6 @@
+SERV:DESKTOP-9OEIATV:
+BaseDatos:BD_prueba2024:
+USUARIO::
+Clave::
+
+FormatoFecha:dd/MM/yyyy:

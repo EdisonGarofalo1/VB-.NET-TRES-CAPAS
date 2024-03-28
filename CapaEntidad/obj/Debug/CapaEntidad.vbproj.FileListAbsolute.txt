@@ -1,0 +1,49 @@
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.vbprojResolveAssemblyReference.cache
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.vbprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\bin\Debug\CapaEntidad.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.vbprojResolveAssemblyReference.cache
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\bin\Debug\CapaEntidad.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.vbprojResolveAssemblyReference.cache
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\bin\Debug\CapaEntidad.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.vbproj.AssemblyReference.cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaEntidad\obj\Debug\CapaEntidad.pdb

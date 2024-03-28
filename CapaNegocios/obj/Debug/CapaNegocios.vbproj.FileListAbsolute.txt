@@ -1,0 +1,95 @@
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\bin\Debug\CapaNegocios.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.Cache
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.xml
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\JOEL VERA\Documents\sexto\visual2\Segundo Parcial\Proyecto3c\CapaNegocios\bin\Debug\CapaEntidad.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\bin\Debug\CapaNegocios.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\bin\Debug\CapaEntidad.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.Cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.vbproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\bin\Debug\CapaNegocios.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\bin\Debug\CapaEntidad.dll
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\bin\Debug\CapaDatos.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\bin\Debug\CapaEntidad.pdb
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\bin\Debug\CapaEntidad.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.vbprojResolveAssemblyReference.cache
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.Cache
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.vbproj.CoreCompileInputs.cache
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.xml
+D:\Documentos\CHICHO\Proyecto3c\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaNegocios.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaEntidad.dll
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaDatos.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaEntidad.pdb
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaEntidad.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.vbprojResolveAssemblyReference.cache
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.Cache
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.vbproj.CoreCompileInputs.cache
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.xml
+D:\Documentos\CHICHO\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaNegocios.xml
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaEntidad.xml
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.Cache
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.xml
+C:\Users\Jesus Rosales\Desktop\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaNegocios.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaEntidad.dll
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaDatos.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaEntidad.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\bin\Debug\CapaEntidad.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.vbproj.AssemblyReference.cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.vbproj.CoreCompileInputs.cache
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.xml
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\Nueva carpeta (6)\Projects\Proyecto3Capa_Parcial2\CapaNegocios\obj\Debug\CapaNego.4A8109B1.Up2Date
